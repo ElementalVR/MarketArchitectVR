@@ -22,9 +22,17 @@ Run out of money? Don't think you can just start over! If your business falls in
 🏪 Manage Your Gas Station
 Start small with a gas station mini-mart, then build your way up to managing a full-fledged supermarket. You’ll need to consider:
 
-Product Availability: Keep popular products in stock, but don’t overstock items that won’t sell.
-Customer Satisfaction: Happy customers mean more return visits, while unhappy ones could spell disaster.
-Competition: Price wars with other local businesses can make or break your profit margins.
+🍫Product Availability:
+Keep popular products in stock, but don’t overstock items that won’t sell.
+
+😀 Customer Satisfaction:
+Happy customers mean more return visits, while unhappy ones could spell disaster.
+
+and
+
+🪙 Competition:
+Price wars with other local businesses can make or break your profit margins.
+
 🔧 Development
 The game is being developed using Unity with a focus on realistic economic simulations, and strategic management gameplay.
 
