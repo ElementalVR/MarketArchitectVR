@@ -1,21 +1,33 @@
-MIT License
+This License Agreement governs the use of the codebase provided in the GitHub repository for the PC Virtual Reality (PCVR) game Market Architect.
 
-Copyright (c) 2024 TheElemental
+By using, downloading, or distributing this Code, you agree to comply with and be bound by the terms of this Agreement. If you do not agree, do not use this Code.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. License Grant
+You are granted a non-exclusive, non-transferable, revocable license to use this Code for personal, non-commercial projects. You may:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Modify and distribute your modifications as long as they comply with the terms of this Agreement.
+Share derivative works under the same terms as this license.
+2. Prohibited Uses
+You may not:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Use this Code for any commercial purpose without explicit written permission from the original author.
+Sell or distribute any version of the Game for financial gain without authorization.
+Misrepresent the Code or Game as your original creation without proper attribution.
+3. In-Game Economy Features
+The Game includes several economic features that must be understood before engaging in play:
+
+In-Game Taxes: The Game includes an in-game tax system. Players are required to pay taxes using only in-game currency. These taxes apply to in-game transactions and services.
+
+Bankruptcy System: The Game includes a bankruptcy feature, where players may go bankrupt based on their in-game financial decisions.
+
+Gas Station Theme: The Game is set in a gas station simulation. All interactions and gameplay revolve around this theme.
+
+4. Attribution
+If you distribute or use this Code, you must provide appropriate credit to the original author by:
+
+Mentioning the author’s GitHub repository.
+Including this license in any modified or distributed versions of the Code.
+5. No Warranty
+This Code is provided "as is" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+The author will not be liable for any damages arising from the use of this Code or the Game, including economic losses or bankruptcy occurring in-game.
